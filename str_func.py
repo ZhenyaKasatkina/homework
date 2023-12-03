@@ -1,7 +1,7 @@
 
 
 def change_upper(word: str):
-    """chabge upper"""
+    """change upper"""
     return word.upper()
 
 def change_title(word: str):
